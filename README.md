@@ -25,7 +25,7 @@ This solution supports CyberArk environments that are deployed in the Cloud and 
 
 
 # Prerequisites
-This solution requires the following:
+This solution requires the following :
 
 1. The CyberArk PAS solution is installed on-prem / Cloud / hybrid with v9.10 or higher.
 2. The CyberArk license must include SSH key manager.
